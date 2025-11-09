@@ -3,7 +3,6 @@
 This repository shows my learning journey and progress towards becoming a Data Analyst.
 
 ## 🎓 Certifications (In Progress)
-
 **Cisco: Data Analytics Essentials**  
 
 ## 📊 Projects (Will be Added)
